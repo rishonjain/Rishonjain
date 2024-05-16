@@ -1,5 +1,5 @@
 ### Hi there 👋
-First year college student passionate about programming and all things tech
+First year college student, passionate about programming and all things tech.
 <!--
 **rishonjain/Rishonjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,mysql)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=python,html,css,java,mysql)](https://skillicons.dev)

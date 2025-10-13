@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,mysql,cpp,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,javascript,mysql,cpp,go,aws,azure,git,ts,docker)](https://skillicons.dev)
